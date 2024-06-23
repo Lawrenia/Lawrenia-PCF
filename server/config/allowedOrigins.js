@@ -1,7 +1,6 @@
 const allowedOrigins = [
-  "http://localhost:5173",
-  "http://localhost:5000",
-  "http://localhost:5000/api"
+  "https://lawrenia-pcf.vercel.app/",
+  "https://lawrenia-pcf-api.vercel.app/"
 ];
 
 module.exports = allowedOrigins;
